@@ -1,3 +1,3 @@
 export const KB{
-    alert("Helo")
+  Alert("This is my component")
 }
