@@ -1,3 +1,3 @@
 expost const KBYY{
-        alert("can i use your component")
+    alert("No broe, thats my component")
 }
